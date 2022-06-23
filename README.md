@@ -9,4 +9,5 @@ Hi, iam Tobias Piraino <br/>
 - 📫 Contact: 
         Linkedin:https://www.linkedin.com/in/tobias-piraino-a023681a9/
         Phone Number: +54 1132052547
+        email: pirainotobias@gmail.com
 - 😄 Pronouns: He
