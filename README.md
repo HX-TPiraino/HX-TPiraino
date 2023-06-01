@@ -6,7 +6,7 @@
 Hi, iam Tobias Piraino <br/>
 - 🔭 I’m currently working on Henry
 - 📫 Contact: <br/>
-        Linkedin:[https://www.linkedin.com/in/tobias-piraino-a023681a9](https://www.linkedin.com/in/tobias-piraino-mendez/)/<br/>
+        Linkedin:https://www.linkedin.com/in/tobias-piraino-mendez//<br/>
         Phone Number: +54 1132052547<br/>
         email: pirainotobias@gmail.com<br/>
 - 😄 Pronouns: He
